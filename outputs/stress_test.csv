@@ -1,0 +1,4 @@
+scenario,mean_pd,portfolio_expected_loss,el_change_pct
+baseline,0.0805,1551516721.0,0.0
+mild_downturn,0.091,1766710726.0,13.87
+severe_recession,0.1128,2210810476.0,42.49
